@@ -15,9 +15,7 @@ O Modelo Espiral é uma metodologia iterativa que combina elementos do Modelo em
 O Manifesto Ágil é um **documento elaborado por 17 programadores que reúne os valores e os princípios para o desenvolvimento de um software.**
 Inicialmente, o objetivo era apenas estabelecer diretrizes para alinhar o desenvolvimento de programas com as necessidades dos clientes, evitando o **retrabalho** e prejuízos financeiros.
 Porém, apesar de ser originalmente utilizado para essa finalidade, hoje esse manifesto também é utilizado como base para implementar mudanças na forma tradicional de **gestão de projetos.**
-Dessa forma, é possível melhorar o processo de desenvolvimento de um produto ou serviço. Vale lembrar que ser ágil não significa trabalhar com pressa, mas poder observar e se adaptar às mudanças e **tendências** em busca dos melhores resultados.
-Isso é possível porque **essa metodologia permite a atuação de times multidisciplinares**, também chamados de **squads**. Assim, o **projeto** pode ser dividido em tarefas, que devem ser entregues a cada ciclo, também conhecidas como **sprint**. 
-Assim, o projeto pode ser concluído mais rápido, o fluxo de trabalho é otimizado e as correções e melhorias são implementadas de forma mais ágil e eficiente.
+Dessa forma, é possível melhorar o processo de desenvolvimento de um produto ou serviço. 
 
 ### ✨ **Valores**
 
@@ -100,7 +98,17 @@ As reuniões do Scrum acontecem quando o mestre do Scrum, o proprietário do pro
 Kanban é um método baseado no Pensamento Lean e no Pensamento Ágil, voltado a melhorar a execução dos serviços, entregar valor de maneira constante e evoluir continuamente o sistema de produção, através da resolução sistemática de problemas
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+Extreme Programming (XP) é uma metodologia ágil que se concentra em qualidade de software e adaptabilidade. Seus princípios fundamentais são:
+
+Comunicação – Incentiva a troca constante de informações entre membros da equipe para evitar falhas por falta de entendimento.
+
+Simplicidade – O código deve ser o mais simples possível para atender aos requisitos, evitando complexidade desnecessária.
+
+Feedback – Feedback rápido e contínuo, tanto do cliente quanto dos testes automatizados, para detectar erros cedo e melhorar o processo.
+
+Coragem – Encoraja mudanças sempre que necessário, sem medo de refatorar código ou alterar requisitos.
+
+Respeito – Os membros da equipe devem se respeitar mutuamente, garantindo um ambiente colaborativo e produtivo.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  

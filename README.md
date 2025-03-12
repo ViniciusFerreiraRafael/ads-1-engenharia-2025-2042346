@@ -147,9 +147,5 @@ As equipes podem monitorar e gerenciar o tempo e o esforço gastos em cada taref
 
 O gerenciamento de tarefas fornece aos membros da equipe uma visão clara sobre o progresso das tarefas e o status geral do projeto. Isso inclui atribuir responsabilidades às tarefas, promover a responsabilidade com um rastreador de tarefas pessoal e fornecer atualizações de status. A utilização de ferramentas visuais de acompanhamento do progresso, a definição de cronogramas e prazos concretos e a centralização das informações fornecem às equipes a transparência necessária para manter os projetos sob controle.
 
-### **Visibilidade**
-
-O gerenciamento de tarefas fornece aos membros da equipe uma visão clara sobre o progresso das tarefas e o status geral do projeto. Isso inclui atribuir responsabilidades às tarefas, promover a responsabilidade com um rastreador de tarefas pessoal e fornecer atualizações de status. A utilização de ferramentas visuais de acompanhamento do progresso, a definição de cronogramas e prazos concretos e a centralização das informações fornecem às equipes a transparência necessária para manter os projetos sob controle.
-
 ### **Jira:**
 ![image](https://github.com/user-attachments/assets/21256d1d-357e-4954-ada5-9e8f6fdff9c3)
